@@ -1,0 +1,10 @@
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\bin\Debug\SocialMediaData.dacpac
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\bin\Debug\SocialMediaData.dll
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\bin\Debug\SocialMediaData.pdb
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\SocialMediaData.sqlproj.AssemblyReference.cache
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\Model.xml
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\refactor.xml
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\postdeploy.sql
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\predeploy.sql
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\SocialMediaData.dll
+C:\Users\LokeshNaiduRayani\source\repos\SocialMediaData\SocialMediaData\obj\Debug\SocialMediaData.pdb
